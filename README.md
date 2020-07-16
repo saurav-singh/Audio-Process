@@ -1,2 +1,9 @@
 # Audio-Process
-Simple audio processing
+
+Simple audio processing for reference
+
+- Python
+- Librosa
+- FFT
+- MFFC
+
