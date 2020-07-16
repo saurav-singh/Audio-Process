@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 
 if __name__ == "__main__":
 
-    audio_file = "audio-data.wav"
-    plotWaveform = False
+    audio_file = "audio.wav"
+    plotWaveform = True
     plotSpectrum = False
     plotSpectogram = False
     plotMFCC = False
